@@ -1,0 +1,13 @@
+{
+  "name": "dokkuconfigproof",
+  "version": "0.0.1",
+  "description": "POC template generation issue",
+  "author": "Jonathan Pritchard",
+  "repository": {
+    "type": "git",
+    "url": "https://pritchardjonathan@bitbucket.org/pritchardjonathan/up.chat.git"
+  },
+  "dependencies": {
+
+  }
+}
